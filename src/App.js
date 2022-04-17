@@ -8,7 +8,7 @@ function App() {
   return (
   <BrowserRouter>
   <Routes>
-    <Route path="/"  element={<Login/>} />
+    <Route path="/TV2ZTask"  element={<Login/>} />
     <Route path="/Category"  element={<Category/>} />
   </Routes>
   </BrowserRouter>
