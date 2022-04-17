@@ -1,0 +1,167 @@
+body{
+  background-color: #091422;
+  color: #FFFFFF;
+}
+
+
+.header{
+display: grid;
+grid-template-columns: auto auto;
+justify-content: space-between;
+}
+.tv2z{
+  padding-left: 30px;
+  font-size: 350%;
+  margin-top: 7%;
+}
+.login{
+padding-right: 30px;
+
+}
+
+.loginPage{
+  text-align: center;
+}
+.email,.password{
+  font-size: 120%;
+  padding: 5px;
+  border-radius: 10px;
+  width: 290px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.password{
+  margin-right: -39px;
+}
+
+.loginButton{
+  background-color: #03AAD3;
+  color: #FFFFFF;
+  font-size:120%;
+  padding-top: 0.7%;
+  padding-bottom: 0.7%;
+  padding-left: 0.8%;
+  padding-right: 0.8%;
+  border-radius: 10px;
+  font-weight: 850;
+}
+.footer{
+  position: absolute;
+  top: 96%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background-color: #101827;
+  width: 100%;
+  color: #4D4D4D;
+}
+.openEye{
+  position: relative;
+  left: -px;
+  top: 5px;
+  margin: 0px;
+  padding: 0px;
+}
+.closeEye{
+  position: relative;
+  left: -24px;
+  top: 5px;
+  margin: 0px;
+  padding: 0px;
+  visibility:hidden;
+}
+.error{
+  color: red;
+}
+
+.categoryHeader{
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: space-between;
+}
+
+.leftHeader{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto ;
+  justify-content: space-between;
+  grid-gap: 5%;
+  padding-left: 10%;
+}
+.rightHeader{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: space-between;
+  grid-gap: 5px;
+}
+.search{
+  margin-top: 18px;
+}
+.userImage{
+  border-radius: 50%;
+}
+.userName{
+  border: none;
+  background-color: #091422;
+  color: #FFFFFF;
+  margin-top: -25px;
+}
+.slide-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.arrow{
+  width: 2rem;
+  margin: 0 1rem;
+}
+section{
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+section::-webkit-scrollbar{
+  /* height: 5px;
+  width: 2px;
+  border:  1px solid #d5d5d5;
+  background-color: #d5d5d5; */
+  height: 0px;
+  width: 0px;
+}
+section::-webkit-scrollbar-track{
+   --webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.3)
+}
+section::-webkit-scrollbar-thumb{
+  background-color: blueviolet;
+   outline: 1px solid #eee;
+}
+.MovieImage{
+  border: 1px solid #03AAD3 ;
+}
+section .MovieImage{
+  flex: 0 0 auto;
+  object-fit: cover;
+  cursor: pointer;
+  margin-bottom: 5px;
+  margin-right: 50px;
+  overflow: hidden;
+  transform: scale(.95);
+  transition: all .3s;
+}
+section .MovieImage:hover{
+transform: scale(1);
+}
+
+.catogory-name{
+  margin-left: 5%;
+}
+.footer{
+  text-align: center;
+}
+.intructionText,.error,.forgotpassword,.para{
+  margin: 20px;
+}
