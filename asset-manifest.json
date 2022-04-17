@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/TV2zTask/static/css/main.65569b67.css",
-    "main.js": "/TV2zTask/static/js/main.9a795c74.js",
-    "static/js/787.a5a00b74.chunk.js": "/TV2zTask/static/js/787.a5a00b74.chunk.js",
-    "static/media/FirstDog.jpeg": "/TV2zTask/static/media/FirstDog.d50b3c1e953e0fbdc784.jpeg",
-    "static/media/AreaQ.jpeg": "/TV2zTask/static/media/AreaQ.1aa37e5f2209b638baf7.jpeg",
-    "static/media/ChristmasStory.jpeg": "/TV2zTask/static/media/ChristmasStory.a12ddddf90096a1edc6d.jpeg",
-    "static/media/Einstein.jpeg": "/TV2zTask/static/media/Einstein.2efb05904956a5a2efb3.jpeg",
-    "static/media/krishna.jpg": "/TV2zTask/static/media/krishna.6fcc1f71ad1eb0b4595e.jpg",
-    "static/media/Hellsgate.jpeg": "/TV2zTask/static/media/Hellsgate.b08a63391f2f98f49dc1.jpeg",
-    "static/media/WolfCreek.jpeg": "/TV2zTask/static/media/WolfCreek.b02772a58555a221ff73.jpeg",
-    "static/media/Revolution.jpeg": "/TV2zTask/static/media/Revolution.1c19079026caea3ac215.jpeg",
-    "static/media/Picnic.jpeg": "/TV2zTask/static/media/Picnic.8b24300e4b1e99b5ce91.jpeg",
-    "static/media/Medici.jpeg": "/TV2zTask/static/media/Medici.d6e6f635f83d8c90fcdd.jpeg",
-    "static/media/Fighter.jpeg": "/TV2zTask/static/media/Fighter.b72d26c257b10da076d3.jpeg",
-    "static/media/Modus.jpeg": "/TV2zTask/static/media/Modus.cfeea598743b2b85f7bf.jpeg",
-    "index.html": "/TV2zTask/index.html",
-    "main.65569b67.css.map": "/TV2zTask/static/css/main.65569b67.css.map",
-    "main.9a795c74.js.map": "/TV2zTask/static/js/main.9a795c74.js.map",
-    "787.a5a00b74.chunk.js.map": "/TV2zTask/static/js/787.a5a00b74.chunk.js.map"
+    "main.css": "/TV2ZTask/static/css/main.65569b67.css",
+    "main.js": "/TV2ZTask/static/js/main.9fd9a225.js",
+    "static/js/787.a5a00b74.chunk.js": "/TV2ZTask/static/js/787.a5a00b74.chunk.js",
+    "static/media/FirstDog.jpeg": "/TV2ZTask/static/media/FirstDog.d50b3c1e953e0fbdc784.jpeg",
+    "static/media/AreaQ.jpeg": "/TV2ZTask/static/media/AreaQ.1aa37e5f2209b638baf7.jpeg",
+    "static/media/ChristmasStory.jpeg": "/TV2ZTask/static/media/ChristmasStory.a12ddddf90096a1edc6d.jpeg",
+    "static/media/Einstein.jpeg": "/TV2ZTask/static/media/Einstein.2efb05904956a5a2efb3.jpeg",
+    "static/media/krishna.jpg": "/TV2ZTask/static/media/krishna.6fcc1f71ad1eb0b4595e.jpg",
+    "static/media/Hellsgate.jpeg": "/TV2ZTask/static/media/Hellsgate.b08a63391f2f98f49dc1.jpeg",
+    "static/media/WolfCreek.jpeg": "/TV2ZTask/static/media/WolfCreek.b02772a58555a221ff73.jpeg",
+    "static/media/Revolution.jpeg": "/TV2ZTask/static/media/Revolution.1c19079026caea3ac215.jpeg",
+    "static/media/Picnic.jpeg": "/TV2ZTask/static/media/Picnic.8b24300e4b1e99b5ce91.jpeg",
+    "static/media/Medici.jpeg": "/TV2ZTask/static/media/Medici.d6e6f635f83d8c90fcdd.jpeg",
+    "static/media/Fighter.jpeg": "/TV2ZTask/static/media/Fighter.b72d26c257b10da076d3.jpeg",
+    "static/media/Modus.jpeg": "/TV2ZTask/static/media/Modus.cfeea598743b2b85f7bf.jpeg",
+    "index.html": "/TV2ZTask/index.html",
+    "main.65569b67.css.map": "/TV2ZTask/static/css/main.65569b67.css.map",
+    "main.9fd9a225.js.map": "/TV2ZTask/static/js/main.9fd9a225.js.map",
+    "787.a5a00b74.chunk.js.map": "/TV2ZTask/static/js/787.a5a00b74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65569b67.css",
-    "static/js/main.9a795c74.js"
+    "static/js/main.9fd9a225.js"
   ]
 }
