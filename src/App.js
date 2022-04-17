@@ -4,11 +4,13 @@ import Login from "./components/Login";
 import Category from "./components/Category";
 import {BrowserRouter,Routes,Route} from "react-router-dom"
 
+
+
 function App() {
   return (
   <BrowserRouter>
   <Routes>
-    <Route path="/TV2ZTask"  element={<Login/>} />
+    <Route path="/"  element={<Login/>} />
     <Route path="/Category"  element={<Category/>} />
   </Routes>
   </BrowserRouter>
