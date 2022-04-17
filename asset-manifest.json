@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TV2ZTask/static/css/main.65569b67.css",
-    "main.js": "/TV2ZTask/static/js/main.9fd9a225.js",
+    "main.js": "/TV2ZTask/static/js/main.34653682.js",
     "static/js/787.a5a00b74.chunk.js": "/TV2ZTask/static/js/787.a5a00b74.chunk.js",
     "static/media/FirstDog.jpeg": "/TV2ZTask/static/media/FirstDog.d50b3c1e953e0fbdc784.jpeg",
     "static/media/AreaQ.jpeg": "/TV2ZTask/static/media/AreaQ.1aa37e5f2209b638baf7.jpeg",
@@ -17,11 +17,11 @@
     "static/media/Modus.jpeg": "/TV2ZTask/static/media/Modus.cfeea598743b2b85f7bf.jpeg",
     "index.html": "/TV2ZTask/index.html",
     "main.65569b67.css.map": "/TV2ZTask/static/css/main.65569b67.css.map",
-    "main.9fd9a225.js.map": "/TV2ZTask/static/js/main.9fd9a225.js.map",
+    "main.34653682.js.map": "/TV2ZTask/static/js/main.34653682.js.map",
     "787.a5a00b74.chunk.js.map": "/TV2ZTask/static/js/787.a5a00b74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65569b67.css",
-    "static/js/main.9fd9a225.js"
+    "static/js/main.34653682.js"
   ]
 }
